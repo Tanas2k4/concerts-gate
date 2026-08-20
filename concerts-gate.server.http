@@ -1,0 +1,6 @@
+@concerts_gate.server_HostAddress = http://localhost:5226
+
+GET {{concerts_gate.server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,24 @@
+# Visual Studio & IDE cache 
+.vs/
+.vscode/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+
+# Build results
+[Bb]in/
+[Oo]bj/
+dist/
+
+# Development config & Environment secrets
+appsettings.Development.json
+appsettings.Production.json
+appsettings.Local.json
+*.env
+*.env.local
+
+# Logs & temporary files
+*.log
+*.tmp
+_ReSharper*/
